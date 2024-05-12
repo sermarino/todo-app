@@ -1,0 +1,45 @@
+# Cartella di progetto Angular (ad esempio, se la cartella si chiama 'todo-app')
+/todo-app/dist/
+/todo-app/node_modules/
+/todo-app/.angular/
+
+# File di configurazione di Angular
+/todo-app/angular.json
+
+# File di configurazione dell'ambiente
+/todo-app/.env
+/todo-app/src/environments/environment*.ts
+
+# File e cartelle di configurazione degli IDE/editor
+/todo-app/.vscode/
+/todo-app/*.code-workspace
+/todo-app/.idea/
+/todo-app/*.iml
+/todo-app/.project
+/todo-app/.classpath
+/todo-app/.settings/
+
+# File di log
+/todo-app/npm-debug.log
+/todo-app/yarn-error.log
+
+# File di sistema operativo
+/todo-app/.DS_Store
+/todo-app/Thumbs.db
+
+# Altri file e cartelle temporanee
+/todo-app/tmp/
+/todo-app/temp/
+/todo-app/out-tsc/
+/todo-app/src/**/*.js.map
+/todo-app/src/**/*.js
+/todo-app/src/**/*.d.ts
+
+# File di cache
+/todo-app/.cache/
+/todo-app/$RECYCLE.BIN/
+
+# File di backup
+/todo-app/*.bak
+/todo-app/*.swp
+/todo-app/*.swo
